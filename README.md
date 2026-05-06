@@ -16,3 +16,8 @@
   git init 
   dvc init
   dvc add data data_given/wineq
+
+  git add  .
+  git commit -m "first commit"
+  
+  
