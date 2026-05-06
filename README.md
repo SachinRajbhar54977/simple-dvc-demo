@@ -20,4 +20,12 @@
   git add  .
   git commit -m "first commit"
   
+
+    75 mkdir report                                                                                                                                
+  76 ni report/params.json                                                                                                                       
+  77 ni report/scores.json                                                                                                                       
+  78 dvc repro                                                                                                                                   
+  79 dvc metrics show                                                                                                                            
+  80 dvc metrics diff                                                                                                                            
+
   
