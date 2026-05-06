@@ -1,4 +1,12 @@
+# local packagres installation
+-e .
+
+
+
+# third party packages installation
 dvc
 dvc[gdrive]
 scikit-learn
 pandas
+pytest
+tox

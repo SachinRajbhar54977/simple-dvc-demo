@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: src
+Version: 0.0.1
+Summary: A sample ML project
+Author: sachin
+License: MIT
+Dynamic: author
+Dynamic: license
+Dynamic: summary
