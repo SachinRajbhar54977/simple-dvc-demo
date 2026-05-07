@@ -27,4 +27,4 @@ reports:
   params: report/params.json
   scores: report/scores.json
 
-webapp_model_dir: prediction_service/model/model.joblib
+webapp_model_dir: D:\Mlops-projects\sample_app\prediction_services\model\model.joblib
