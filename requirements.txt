@@ -13,4 +13,5 @@ tox
 
 
 jupyterlab
+flake8
  
