@@ -10,3 +10,7 @@ scikit-learn
 pandas
 pytest
 tox
+
+
+jupyterlab
+ 
